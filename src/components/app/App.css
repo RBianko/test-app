@@ -1,0 +1,18 @@
+.wrapper {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.highlight {
+    color: #dc3545;
+    font-size: inherit;
+}
+
+.loginFirst {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #dc3545;
+}

@@ -1,0 +1,30 @@
+.profile__content__list {
+    margin-top: 15px;
+    display: flex;
+}
+
+.item__image {
+    margin-right: 25px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.title {
+    margin-bottom: 10px;
+}
+
+.full__info li {
+    letter-spacing: 3px;
+}
+
+span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h3 {
+    color: #dc3545;
+}

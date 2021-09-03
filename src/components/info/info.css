@@ -1,0 +1,9 @@
+.info__section_main {
+    display: flex;
+    margin-top: 25px;
+}
+
+.info__section img {
+    height: 270px;
+    width: auto;
+}
